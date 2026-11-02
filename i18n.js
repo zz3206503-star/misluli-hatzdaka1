@@ -1,3 +1,4 @@
+
 (() => {
   'use strict';
   const dictionary = {
@@ -549,9 +550,9 @@
   "Schedule sources changed — recalculate",
   "Fuentes de horarios modificadas; vuelve a calcular"
  ],
- "שאר הימים — שלישי, רביעי, שישי ושבת": [
-  "Other days — Tuesday, Wednesday, Friday and Saturday",
-  "Otros días: martes, miércoles, viernes y sábado"
+ "שאר הימים — שלישי, רביעי ושישי": [
+  "Other days — Tuesday, Wednesday and Friday",
+  "Otros días: martes, miércoles y viernes"
  ],
  "הציבורי. אין שמירת היסטוריית מיקום": [
   "service. Location history is not saved",
@@ -1884,6 +1885,46 @@
  "מניינים שונים": [
   "Distinct services",
   "Servicios distintos"
+ ],
+ "שכונות ואזורים": [
+  "Neighborhoods and areas",
+  "Barrios y zonas"
+ ],
+ "ימי עבודה": [
+  "Workdays",
+  "Días de trabajo"
+ ],
+ "כל השבוע — ראשון עד שישי": [
+  "Full week — Sunday through Friday",
+  "Semana completa, de domingo a viernes"
+ ],
+ "היום מתחיל בבית הכנסת הראשון. זמני הנסיעה בין התחנות מחושבים לפי כבישים, ללא פקקים.": [
+  "Each day starts at its first synagogue. Travel between stops uses road estimates without live traffic.",
+  "La jornada empieza en la primera sinagoga. Los trayectos entre paradas se calculan por carretera sin tráfico en directo."
+ ],
+ "הצג את תחנות היום במפה": [
+  "Show this day’s stops on the map",
+  "Ver las paradas del día en el mapa"
+ ],
+ "הצג את המעבר במפה": [
+  "Show this drive on the map",
+  "Ver este trayecto en el mapa"
+ ],
+ "בחר יום בין ראשון לשישי.": [
+  "Choose a day from Sunday through Friday.",
+  "Elige un día de domingo a viernes."
+ ],
+ "החיפוש הועבר ליום ראשון.": [
+  "Search moved to Sunday.",
+  "La búsqueda se ha trasladado al domingo."
+ ],
+ "תוכנית חלקית.": [
+  "Partial plan.",
+  "Plan parcial."
+ ],
+ "בתי כנסת ללא נקודת מפה.": [
+  "synagogues without map coordinates.",
+  "sinagogas sin coordenadas."
  ]
 };
   const storageKey = 'minyan-ui-language';
@@ -1977,3 +2018,4 @@
   window.appI18n = {translate, setLanguage:apply, refreshData, get language(){return language;}};
   apply(language, false);
 })();
+
