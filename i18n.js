@@ -1816,6 +1816,74 @@
  "נדרש מיקום עדכני": [
   "Current location required",
   "Se necesita la ubicación actual"
+ ],
+ "תכנון לכמה ימים": [
+  "Multi-day planning",
+  "Planificación de varios días"
+ ],
+ "מסלולים לפי ערים ואזורים, בלי לחזור על מניין": [
+  "Plan routes by city and area without repeating a service",
+  "Planifica rutas por ciudad y zona sin repetir un servicio"
+ ],
+ "בחר ערים או אזורים. לכל יום תתקבל רשימת מניינים בעיר אחת.": [
+  "Choose cities or areas. Each workday contains services in one city.",
+  "Elige ciudades o zonas. Cada jornada incluye servicios en una sola ciudad."
+ ],
+ "איפה תרצה לעבוד?": [
+  "Where would you like to work?",
+  "¿Dónde quieres trabajar?"
+ ],
+ "ערים": [
+  "Cities",
+  "Ciudades"
+ ],
+ "אזורים": [
+  "Areas",
+  "Zonas"
+ ],
+ "תאריך התחלה": [
+  "Start date",
+  "Fecha inicial"
+ ],
+ "זמן מעבר בין בתי כנסת (דקות)": [
+  "Travel between synagogues (minutes)",
+  "Trayecto entre sinagogas (minutos)"
+ ],
+ "זמן המעבר הוא אומדן שאתה קובע. העבודה מתחילה בבית הכנסת הראשון. באותו בית כנסת אפשר לבקר במניין אחר ללא זמן מעבר.": [
+  "Enter an estimated travel time between synagogues. The day starts at the first synagogue. Another service at the same synagogue needs no travel time.",
+  "Introduce un tiempo estimado de viaje entre sinagogas. La jornada empieza en la primera sinagoga. Otro servicio en la misma sinagoga no requiere desplazamiento."
+ ],
+ "כל שילוב של בית כנסת, תפילה ושעת התחלה נספר פעם אחת בכל התוכנית. הימים וחלונות ההגעה נקבעים לפי התאריך וההגדרות שלך.": [
+  "Each synagogue, prayer and start-time combination is visited once in the plan. Operating days and arrival windows follow your dates and settings.",
+  "Cada combinación de sinagoga, oración y hora inicial se visita una vez en el plan. Los días de actividad y los intervalos de llegada siguen tus fechas y ajustes."
+ ],
+ "חשב תוכנית לימים": [
+  "Plan workdays",
+  "Planificar jornadas"
+ ],
+ "בחר יום להצגת המסלול": [
+  "Choose a day to view its route",
+  "Elige una jornada para ver su ruta"
+ ],
+ "בחר לפחות עיר אחת או אזור אחד.": [
+  "Choose at least one city or area.",
+  "Elige al menos una ciudad o zona."
+ ],
+ "בדוק את התאריך, השעות ומשך השהייה והמעבר.": [
+  "Check the date, working hours, stay and travel times.",
+  "Revisa la fecha, las horas de trabajo y los tiempos de estancia y viaje."
+ ],
+ "אין מניינים מתאימים לזמנים ולמקורות שנבחרו. בדוק את שעות העבודה ואת מקורות השעות בהגדרות.": [
+  "No services match these hours and schedule sources. Check working hours and schedule sources in Settings.",
+  "Ningún servicio coincide con estas horas y fuentes. Revisa las horas de trabajo y las fuentes en Ajustes."
+ ],
+ "ימי עבודה שתוכננו": [
+  "Planned workdays",
+  "Jornadas planificadas"
+ ],
+ "מניינים שונים": [
+  "Distinct services",
+  "Servicios distintos"
  ]
 };
   const storageKey = 'minyan-ui-language';
