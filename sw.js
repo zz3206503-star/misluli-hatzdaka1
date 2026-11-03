@@ -1,7 +1,7 @@
 'use strict';
 // Relative URLs keep this worker inside its GitHub Pages repository.
 const PREFIX = 'misluli-hatzdaka-' + self.registration.scope + '-';
-const CACHE = PREFIX + 'v21';
+const CACHE = PREFIX + 'v24';
 const FILES = ['index.html', 'pwa.js', 'i18n.js', 'manifest.webmanifest', 'icon-192.png', 'icon-512.png', 'icon-180.png'];
 const base = self.registration.scope;
 const allowed = new Set(FILES.map(path => new URL(path, base).href));
