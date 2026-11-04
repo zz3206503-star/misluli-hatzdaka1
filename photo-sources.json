@@ -1,0 +1,2382 @@
+[
+  {
+    "id": "gm-cc3209f563d063cf",
+    "name": "Congregation Ohel Shulamit",
+    "address": "38 Spruce St, Lakewood, NJ 08701",
+    "photos": [
+      {
+        "url": "photos/21030.webp",
+        "original": "https://godaven-assets.sfo2.digitaloceanspaces.com/shul-images/21030ohel.jpg",
+        "source": "https://www.godaven.com/shul-details/21030",
+        "caption": "",
+        "name": "21030ohel.jpg"
+      }
+    ]
+  },
+  {
+    "id": "gm-8b5e425648ebf3e4",
+    "name": "Chestnut Shul",
+    "address": "105 Chestnut St, Lakewood, NJ 08701",
+    "photos": [
+      {
+        "url": "photos/4384.webp",
+        "original": "https://godaven-assets.sfo2.digitaloceanspaces.com/shul-images/4384chestnut_shul.jpg",
+        "source": "https://www.godaven.com/shul-details/4384",
+        "caption": "The New Chestnut Shul",
+        "name": "4384chestnut_shul.jpg"
+      }
+    ]
+  },
+  {
+    "id": "gm-f5ceaf5f2fdb96fb",
+    "name": "Chasidei Bobov of Lakewood",
+    "address": "100 Astor Dr, Lakewood, NJ 08701",
+    "photos": [
+      {
+        "url": "photos/18754.webp",
+        "original": "https://godaven-assets.sfo2.digitaloceanspaces.com/shul-images/18754BobovLakewood.jpg",
+        "source": "https://www.godaven.com/shul-details/18754",
+        "caption": "",
+        "name": "18754BobovLakewood.jpg"
+      }
+    ]
+  },
+  {
+    "id": "gm-04c0d8c2851afd54",
+    "name": "Cong. Kneseth Israel The White Shul",
+    "address": "7-28 Empire Ave, Far Rockaway, NY 11691",
+    "photos": [
+      {
+        "url": "photos/266.webp",
+        "original": "https://godaven-assets.sfo2.digitaloceanspaces.com/shul-images/26623049995016_d41906f16d_k.jpg",
+        "source": "https://www.godaven.com/shul-details/266",
+        "caption": "",
+        "name": "26623049995016_d41906f16d_k.jpg"
+      }
+    ]
+  },
+  {
+    "id": "godaven-17558",
+    "name": "Ateres Shmiel Tzvi Saylish",
+    "address": "810 Bedford Ave, Brooklyn, NY 11205, USA",
+    "photos": [
+      {
+        "url": "photos/17558.webp",
+        "original": "https://godaven-assets.sfo2.digitaloceanspaces.com/shul-images/17558Triger_Freidman%20synagogue-re-3.jpg",
+        "source": "https://www.godaven.com/shul-details/17558",
+        "caption": "",
+        "name": "17558Triger_Freidman synagogue-re-3.jpg"
+      }
+    ]
+  },
+  {
+    "id": "godaven-6148",
+    "name": "Beis Yaakov Nechamyeh Dsatmar",
+    "address": "690 Myrtle Ave, Brooklyn, NY 11205, USA",
+    "photos": [
+      {
+        "url": "photos/6148.webp",
+        "original": "https://godaven-assets.sfo2.digitaloceanspaces.com/shul-images/6148myrlte.jpg",
+        "source": "https://www.godaven.com/shul-details/6148",
+        "caption": "",
+        "name": "6148myrlte.jpg"
+      }
+    ]
+  },
+  {
+    "id": "godaven-11304",
+    "name": "High Style Floors",
+    "address": "70 Franklin Ave, Brooklyn, NY 11205, USA",
+    "photos": [
+      {
+        "url": "photos/11304.webp",
+        "original": "https://godaven-assets.sfo2.digitaloceanspaces.com/shul-images/1130470%20franklin.PNG",
+        "source": "https://www.godaven.com/shul-details/11304",
+        "caption": "",
+        "name": "1130470 franklin.PNG"
+      }
+    ]
+  },
+  {
+    "id": "godaven-8534",
+    "name": "Kehal Yetev Lev Clinton Hill (Beirach Moshe) Satmar",
+    "address": "162 Skillman St, Brooklyn, NY 11205, USA",
+    "photos": [
+      {
+        "url": "photos/8534.webp",
+        "original": "https://godaven-assets.sfo2.digitaloceanspaces.com/shul-images/8534DUrWU5BX0AE8fVe.jpg",
+        "source": "https://www.godaven.com/shul-details/8534",
+        "caption": "",
+        "name": "8534DUrWU5BX0AE8fVe.jpg"
+      }
+    ]
+  },
+  {
+    "id": "godaven-11429",
+    "name": "Toras Menachem Of Rimanov",
+    "address": "104 Spencer St, Brooklyn, NY 11205, USA",
+    "photos": [
+      {
+        "url": "photos/11429.webp",
+        "original": "https://godaven-assets.sfo2.digitaloceanspaces.com/shul-images/11429Rimanov.png",
+        "source": "https://www.godaven.com/shul-details/11429",
+        "caption": "",
+        "name": "11429Rimanov.png"
+      }
+    ]
+  },
+  {
+    "id": "godaven-5736",
+    "name": "Congregation Magen David",
+    "address": "2028 66th St, Brooklyn, NY 11204, USA",
+    "photos": [
+      {
+        "url": "photos/5736.webp",
+        "original": "https://godaven-assets.sfo2.digitaloceanspaces.com/shul-images/57369143.jpg",
+        "source": "https://www.godaven.com/shul-details/5736",
+        "caption": "Image of the congregation",
+        "name": "57369143.jpg"
+      }
+    ]
+  },
+  {
+    "id": "godaven-18751",
+    "name": "Yeshivas Novominsk-Kol Yehuda",
+    "address": "6020 17th Ave, Brooklyn, NY 11204, USA",
+    "photos": [
+      {
+        "url": "photos/18751.webp",
+        "original": "https://godaven-assets.sfo2.digitaloceanspaces.com/shul-images/18751NovominskYeshiva.jpg",
+        "source": "https://www.godaven.com/shul-details/18751",
+        "caption": "",
+        "name": "18751NovominskYeshiva.jpg"
+      }
+    ]
+  },
+  {
+    "id": "godaven-18529",
+    "name": "Bais Hamedrash Dchasidei Kosov",
+    "address": "1353 55th St, Brooklyn, NY 11219, USA",
+    "photos": [
+      {
+        "url": "photos/18529.webp",
+        "original": "https://godaven-assets.sfo2.digitaloceanspaces.com/shul-images/18529Kosov-hagar.jpg",
+        "source": "https://www.godaven.com/shul-details/18529",
+        "caption": "",
+        "name": "18529Kosov-hagar.jpg"
+      }
+    ]
+  },
+  {
+    "id": "godaven-3339",
+    "name": "Belz 15Th Avenue",
+    "address": "5015 15th Ave, Brooklyn, NY 11219, USA",
+    "photos": [
+      {
+        "url": "photos/3339.webp",
+        "original": "https://godaven-assets.sfo2.digitaloceanspaces.com/shul-images/3339belz%20bp.jpg",
+        "source": "https://www.godaven.com/shul-details/3339",
+        "caption": "",
+        "name": "3339belz bp.jpg"
+      }
+    ]
+  },
+  {
+    "id": "godaven-8275",
+    "name": "Birchas Avrohom-Vien",
+    "address": "1319 50th St, Brooklyn, NY 11219, USA",
+    "photos": [
+      {
+        "url": "photos/8275.webp",
+        "original": "https://godaven-assets.sfo2.digitaloceanspaces.com/shul-images/8275Rendering.jpg",
+        "source": "https://www.godaven.com/shul-details/8275",
+        "caption": "",
+        "name": "8275Rendering.jpg"
+      }
+    ]
+  },
+  {
+    "id": "godaven-3213",
+    "name": "Cong Shomrei Emunah",
+    "address": "5202 14th Ave, Brooklyn, NY 11219, USA",
+    "photos": [
+      {
+        "url": "photos/3213.webp",
+        "original": "https://godaven-assets.sfo2.digitaloceanspaces.com/shul-images/3213shomreemauna2.jpg",
+        "source": "https://www.godaven.com/shul-details/3213",
+        "caption": "",
+        "name": "3213shomreemauna2.jpg"
+      }
+    ]
+  },
+  {
+    "id": "godaven-16837",
+    "name": "Cong. Ohr Lashamayim Zaltzberg",
+    "address": "5904 17th Ave, Brooklyn, NY 11204, USA",
+    "photos": [
+      {
+        "url": "photos/16837.webp",
+        "original": "https://godaven-assets.sfo2.digitaloceanspaces.com/shul-images/16837zatzbertg.jpg",
+        "source": "https://www.godaven.com/shul-details/16837",
+        "caption": "",
+        "name": "16837zatzbertg.jpg"
+      }
+    ]
+  },
+  {
+    "id": "godaven-21038",
+    "name": "Congregation Ahavas Achim Tzemach Tzedek Lubavitch",
+    "address": "1546 46th St, Brooklyn, NY 11219, USA",
+    "photos": [
+      {
+        "url": "photos/21038.webp",
+        "original": "https://godaven-assets.sfo2.digitaloceanspaces.com/shul-images/21038teeemachhh.jpg",
+        "source": "https://www.godaven.com/shul-details/21038",
+        "caption": "",
+        "name": "21038teeemachhh.jpg"
+      }
+    ]
+  },
+  {
+    "id": "godaven-16824",
+    "name": "Congregation Bais Shloma",
+    "address": "1453 46th St, Brooklyn, NY 11219, USA",
+    "photos": [
+      {
+        "url": "photos/16824.webp",
+        "original": "https://godaven-assets.sfo2.digitaloceanspaces.com/shul-images/16824_gltbms.jpg",
+        "source": "https://www.godaven.com/shul-details/16824",
+        "caption": "",
+        "name": "16824_gltbms.jpg"
+      }
+    ]
+  },
+  {
+    "id": "godaven-16804",
+    "name": "Congregation Chasidei Gur",
+    "address": "1317 49th St, Brooklyn, NY 11219, USA",
+    "photos": [
+      {
+        "url": "photos/16804.webp",
+        "original": "https://godaven-assets.sfo2.digitaloceanspaces.com/shul-images/16804_5wnwy9c.jpg",
+        "source": "https://www.godaven.com/shul-details/16804",
+        "caption": "",
+        "name": "16804_5wnwy9c.jpg"
+      }
+    ]
+  },
+  {
+    "id": "godaven-16821",
+    "name": "Congregation Mincha Chadosha Dzikov Viznitz Bais Mordechai",
+    "address": "1237 48th St, Brooklyn, NY 11219, USA",
+    "photos": [
+      {
+        "url": "photos/16821.webp",
+        "original": "https://godaven-assets.sfo2.digitaloceanspaces.com/shul-images/16821_oi4pu3.jpg",
+        "source": "https://www.godaven.com/shul-details/16821",
+        "caption": "",
+        "name": "16821_oi4pu3.jpg"
+      }
+    ]
+  },
+  {
+    "id": "godaven-1271",
+    "name": "Gvodzitz Sadigura- Bais Dovid",
+    "address": "1254 49th St, Brooklyn, NY 11219, USA",
+    "photos": [
+      {
+        "url": "photos/1271.webp",
+        "original": "https://godaven-assets.sfo2.digitaloceanspaces.com/shul-images/1271Shul.jpg",
+        "source": "https://www.godaven.com/shul-details/1271",
+        "caption": "",
+        "name": "1271Shul.jpg"
+      }
+    ]
+  },
+  {
+    "id": "godaven-20720",
+    "name": "Hisachdus Avreichim Breslov Of Boro Park",
+    "address": "4313 15th Ave, Brooklyn, NY 11219, USA",
+    "photos": [
+      {
+        "url": "photos/20720.webp",
+        "original": "https://godaven-assets.sfo2.digitaloceanspaces.com/shul-images/20720bresolvoutside2.jpg",
+        "source": "https://www.godaven.com/shul-details/20720",
+        "caption": "",
+        "name": "20720bresolvoutside2.jpg"
+      }
+    ]
+  },
+  {
+    "id": "godaven-2849",
+    "name": "K'Hal Karlsburg",
+    "address": "1556 53rd St, Brooklyn, NY 11219, USA",
+    "photos": [
+      {
+        "url": "photos/2849.webp",
+        "original": "https://godaven-assets.sfo2.digitaloceanspaces.com/shul-images/2849khal-yirei-hashem.jpg",
+        "source": "https://www.godaven.com/shul-details/2849",
+        "caption": "Khal Yirei Hashem - Karlsburg",
+        "name": "2849khal-yirei-hashem.jpg"
+      }
+    ]
+  },
+  {
+    "id": "godaven-7242",
+    "name": "Khal Ungvar - Heichal Zichron Kedoshim",
+    "address": "5306 16th Ave, Brooklyn, NY 11204, USA",
+    "photos": [
+      {
+        "url": "photos/7242.webp",
+        "original": "https://godaven-assets.sfo2.digitaloceanspaces.com/shul-images/72427242Ungvar%20Beis%20Medrash1.jpg",
+        "source": "https://www.godaven.com/shul-details/7242",
+        "caption": "",
+        "name": "72427242Ungvar Beis Medrash1.jpg"
+      }
+    ]
+  },
+  {
+    "id": "godaven-21195",
+    "name": "Khal Zvi Lezadik Bluzev",
+    "address": "1431 58th St, Brooklyn, NY 11219, USA",
+    "photos": [
+      {
+        "url": "photos/21195.webp",
+        "original": "https://godaven-assets.sfo2.digitaloceanspaces.com/shul-images/21195bluzevsimcha.jpg",
+        "source": "https://www.godaven.com/shul-details/21195",
+        "caption": "",
+        "name": "21195bluzevsimcha.jpg"
+      }
+    ]
+  },
+  {
+    "id": "godaven-2203",
+    "name": "Melitz",
+    "address": "5321 12th Ave, Brooklyn, NY 11219, USA",
+    "photos": [
+      {
+        "url": "photos/2203.webp",
+        "original": "https://godaven-assets.sfo2.digitaloceanspaces.com/shul-images/2203Melave-Malka-6-1-1024x768meklitz.jpg",
+        "source": "https://www.godaven.com/shul-details/2203",
+        "caption": "",
+        "name": "2203Melave-Malka-6-1-1024x768meklitz.jpg"
+      }
+    ]
+  },
+  {
+    "id": "godaven-11745",
+    "name": "Rademishla",
+    "address": "1513 41st St, Brooklyn, NY 11218, USA",
+    "photos": [
+      {
+        "url": "photos/11745.webp",
+        "original": "https://godaven-assets.sfo2.digitaloceanspaces.com/shul-images/11745Capture.JPG",
+        "source": "https://www.godaven.com/shul-details/11745",
+        "caption": "Directions",
+        "name": "11745Capture.JPG"
+      }
+    ]
+  },
+  {
+    "id": "godaven-8833",
+    "name": "Radzin",
+    "address": "1334 54th St, Brooklyn, NY 11219, USA",
+    "photos": [
+      {
+        "url": "photos/8833.webp",
+        "original": "https://godaven-assets.sfo2.digitaloceanspaces.com/shul-images/8833447px-Boro_Park_Shteibel_1.jpg",
+        "source": "https://www.godaven.com/shul-details/8833",
+        "caption": "Radziner Beis Medrash",
+        "name": "8833447px-Boro_Park_Shteibel_1.jpg"
+      }
+    ]
+  },
+  {
+    "id": "godaven-20000",
+    "name": "Spinka",
+    "address": "1466 56th St, Brooklyn, NY 11219, USA",
+    "photos": [
+      {
+        "url": "photos/20000.webp",
+        "original": "https://godaven-assets.sfo2.digitaloceanspaces.com/shul-images/20000E_OvnMBz_400x400.jpg",
+        "source": "https://www.godaven.com/shul-details/20000",
+        "caption": "",
+        "name": "20000E_OvnMBz_400x400.jpg"
+      }
+    ]
+  },
+  {
+    "id": "godaven-2171",
+    "name": "Tosher Beis Hamedrish Bp",
+    "address": "4615 14th Ave, Brooklyn, NY 11219, USA",
+    "photos": [
+      {
+        "url": "photos/2171.webp",
+        "original": "https://godaven-assets.sfo2.digitaloceanspaces.com/shul-images/2171tosh%20bp.jpg",
+        "source": "https://www.godaven.com/shul-details/2171",
+        "caption": "",
+        "name": "2171tosh bp.jpg"
+      }
+    ]
+  },
+  {
+    "id": "godaven-2924",
+    "name": "Yagdil Torah Chasidei Gur",
+    "address": "5110 18th Ave, Brooklyn, NY 11204, USA",
+    "photos": [
+      {
+        "url": "photos/2924.webp",
+        "original": "https://godaven-assets.sfo2.digitaloceanspaces.com/shul-images/2924yaggggggg.jpg",
+        "source": "https://www.godaven.com/shul-details/2924",
+        "caption": "",
+        "name": "2924yaggggggg.jpg"
+      }
+    ]
+  },
+  {
+    "id": "godaven-4178",
+    "name": "Young Israel Of Brighton Beach",
+    "address": "293 Neptune Ave, Brooklyn, NY 11235, USA",
+    "photos": [
+      {
+        "url": "photos/4178.webp",
+        "original": "https://godaven-assets.sfo2.digitaloceanspaces.com/shul-images/41786a8838493b5e5249c546f5b16d1d2055.jpg",
+        "source": "https://www.godaven.com/shul-details/4178",
+        "caption": "",
+        "name": "41786a8838493b5e5249c546f5b16d1d2055.jpg"
+      }
+    ]
+  },
+  {
+    "id": "godaven-2472",
+    "name": "Cong. Shaar Hatfiah Rozle",
+    "address": "133 Gerry St, Brooklyn, NY 11206, USA",
+    "photos": [
+      {
+        "url": "photos/2472.webp",
+        "original": "https://godaven-assets.sfo2.digitaloceanspaces.com/shul-images/2472133.jpg",
+        "source": "https://www.godaven.com/shul-details/2472",
+        "caption": "",
+        "name": "2472133.jpg"
+      }
+    ]
+  },
+  {
+    "id": "godaven-6273",
+    "name": "Sheima Shlomo D'Kozove",
+    "address": "198 Middleton St, Brooklyn, NY 11206, USA",
+    "photos": [
+      {
+        "url": "photos/6273.webp",
+        "original": "https://godaven-assets.sfo2.digitaloceanspaces.com/shul-images/6273ss.jpg",
+        "source": "https://www.godaven.com/shul-details/6273",
+        "caption": "",
+        "name": "6273ss.jpg"
+      }
+    ]
+  },
+  {
+    "id": "godaven-16797",
+    "name": "Congregation Emunas Yisroel",
+    "address": "4310 16th Ave, Brooklyn, NY 11204, USA",
+    "photos": [
+      {
+        "url": "photos/16797.webp",
+        "original": "https://godaven-assets.sfo2.digitaloceanspaces.com/shul-images/8758IMG_wm%200444.jpg",
+        "source": "https://www.godaven.com/shul-details/16797",
+        "caption": "",
+        "name": "8758IMG_wm 0444.jpg"
+      }
+    ]
+  },
+  {
+    "id": "godaven-16737",
+    "name": "Mirrer Yeshiva",
+    "address": "1791 Ocean Pkwy, Brooklyn, NY 11223, USA",
+    "photos": [
+      {
+        "url": "photos/16737.webp",
+        "original": "https://godaven-assets.sfo2.digitaloceanspaces.com/shul-images/16737mirnew1.jpg",
+        "source": "https://www.godaven.com/shul-details/16737",
+        "caption": "",
+        "name": "16737mirnew1.jpg"
+      }
+    ]
+  },
+  {
+    "id": "godaven-16977",
+    "name": "Warbasse Jewish Heritage Congregation",
+    "address": "2790 W 5th St, Brooklyn, NY 11224, USA",
+    "photos": [
+      {
+        "url": "photos/16977.webp",
+        "original": "https://godaven-assets.sfo2.digitaloceanspaces.com/shul-images/16977dscn2026.jpg",
+        "source": "https://www.godaven.com/shul-details/16977",
+        "caption": "",
+        "name": "16977dscn2026.jpg"
+      }
+    ]
+  },
+  {
+    "id": "godaven-25516",
+    "name": "Centers Health Care Si Offices ",
+    "address": "75 Vanderbilt Ave, Staten Island, NY 10304, USA",
+    "photos": [
+      {
+        "url": "photos/25516.webp",
+        "original": "https://godaven-assets.sfo2.digitaloceanspaces.com/shul-images/25516_abb66.jpg",
+        "source": "https://www.godaven.com/shul-details/25516",
+        "caption": "",
+        "name": "25516_abb66.jpg"
+      }
+    ]
+  },
+  {
+    "id": "godaven-10926",
+    "name": " Seabreeze Jewish Center",
+    "address": "321 Sea Breeze Ave, Brooklyn, NY 11224, USA",
+    "photos": [
+      {
+        "url": "photos/10926.webp",
+        "original": "https://godaven-assets.sfo2.digitaloceanspaces.com/shul-images/10926_sizst.JPG",
+        "source": "https://www.godaven.com/shul-details/10926",
+        "caption": "",
+        "name": "10926_sizst.JPG"
+      }
+    ]
+  },
+  {
+    "id": "godaven-18069",
+    "name": "Bais Binyamin",
+    "address": "680 Montgomery St, Brooklyn, NY 11213, USA",
+    "photos": [
+      {
+        "url": "photos/18069.webp",
+        "original": "https://godaven-assets.sfo2.digitaloceanspaces.com/shul-images/18069bc8af2a5c7f408da3230530f72ad1d7651eb8a47.jpg",
+        "source": "https://www.godaven.com/shul-details/18069",
+        "caption": "",
+        "name": "18069bc8af2a5c7f408da3230530f72ad1d7651eb8a47.jpg"
+      }
+    ]
+  },
+  {
+    "id": "godaven-7649",
+    "name": "Bais Eliezer Yitzchak",
+    "address": "394 Kingston Ave, Brooklyn, NY 11225",
+    "photos": [
+      {
+        "url": "photos/7649.webp",
+        "original": "https://godaven-assets.sfo2.digitaloceanspaces.com/shul-images/76496.jpg",
+        "source": "https://www.godaven.com/shul-details/7649",
+        "caption": "",
+        "name": "76496.jpg"
+      }
+    ]
+  },
+  {
+    "id": "godaven-10381",
+    "name": "Bais Rivka",
+    "address": "310 Crown St, Brooklyn, NY 11225, USA",
+    "photos": [
+      {
+        "url": "photos/10381.webp",
+        "original": "https://godaven-assets.sfo2.digitaloceanspaces.com/shul-images/103810b45c2213bc2b252f74bbe7da987db37bd1c43aa.jpg",
+        "source": "https://www.godaven.com/shul-details/10381",
+        "caption": "",
+        "name": "103810b45c2213bc2b252f74bbe7da987db37bd1c43aa.jpg"
+      }
+    ]
+  },
+  {
+    "id": "godaven-8523",
+    "name": "Beis Dovid (Aka F.R.E.E.)",
+    "address": "1383 President St, Brooklyn, NY 11213",
+    "photos": [
+      {
+        "url": "photos/8523.webp",
+        "original": "https://godaven-assets.sfo2.digitaloceanspaces.com/shul-images/852326930_11833_2852669124776.jpg",
+        "source": "https://www.godaven.com/shul-details/8523",
+        "caption": "",
+        "name": "852326930_11833_2852669124776.jpg"
+      }
+    ]
+  },
+  {
+    "id": "godaven-18074",
+    "name": "Chevra Ahavas Achim-Empire Shtiebel",
+    "address": "489 Empire Blvd, Brooklyn, NY 11225, USA",
+    "photos": [
+      {
+        "url": "photos/18074.webp",
+        "original": "https://godaven-assets.sfo2.digitaloceanspaces.com/shul-images/1807426930_7912_176981356915407.jpg",
+        "source": "https://www.godaven.com/shul-details/18074",
+        "caption": "",
+        "name": "1807426930_7912_176981356915407.jpg"
+      }
+    ]
+  },
+  {
+    "id": "godaven-18066",
+    "name": "Chevra Shas",
+    "address": "398 Kingston Ave, Brooklyn, NY 11225",
+    "photos": [
+      {
+        "url": "photos/18066.webp",
+        "original": "https://godaven-assets.sfo2.digitaloceanspaces.com/shul-images/18066541421a1827c9bfd48480b727f71c27df65e3fca.jpg",
+        "source": "https://www.godaven.com/shul-details/18066",
+        "caption": "",
+        "name": "18066541421a1827c9bfd48480b727f71c27df65e3fca.jpg"
+      }
+    ]
+  },
+  {
+    "id": "godaven-1602",
+    "name": "Cong. Lubavitch Of Agudas Chasidei Chabad -770",
+    "address": "770 Eastern Pkwy, Brooklyn, NY 11213, USA",
+    "photos": [
+      {
+        "url": "photos/1602.webp",
+        "original": "https://godaven-assets.sfo2.digitaloceanspaces.com/shul-images/1602770Lubavitch.jpg",
+        "source": "https://www.godaven.com/shul-details/1602",
+        "caption": "770 Eastern Parkway - Lubavitch World Headquarters",
+        "name": "1602770Lubavitch.jpg"
+      }
+    ]
+  },
+  {
+    "id": "godaven-18070",
+    "name": "Khal Chassidim Shul- Baumgarten'S Shul",
+    "address": "1612 Carroll St, Brooklyn, NY 11213, USA",
+    "photos": [
+      {
+        "url": "photos/18070.webp",
+        "original": "https://godaven-assets.sfo2.digitaloceanspaces.com/shul-images/1807026930_21824_15485200916576.jpg",
+        "source": "https://www.godaven.com/shul-details/18070",
+        "caption": "",
+        "name": "1807026930_21824_15485200916576.jpg"
+      }
+    ]
+  },
+  {
+    "id": "godaven-18078",
+    "name": "Kollel Menachem Shul",
+    "address": "303 Kingston Ave, Brooklyn, NY 11213, USA",
+    "photos": [
+      {
+        "url": "photos/18078.webp",
+        "original": "https://godaven-assets.sfo2.digitaloceanspaces.com/shul-images/1807872623a5f24f3648d0c0cb064a31e1644fcd98fc0.jpg",
+        "source": "https://www.godaven.com/shul-details/18078",
+        "caption": "",
+        "name": "1807872623a5f24f3648d0c0cb064a31e1644fcd98fc0.jpg"
+      }
+    ]
+  },
+  {
+    "id": "godaven-18080",
+    "name": "Menachen Nachum / Spinka",
+    "address": "440 Crown St, Brooklyn, NY 11225, USA",
+    "photos": [
+      {
+        "url": "photos/18080.webp",
+        "original": "https://godaven-assets.sfo2.digitaloceanspaces.com/shul-images/18080menachem%20nachum.jpg",
+        "source": "https://www.godaven.com/shul-details/18080",
+        "caption": "",
+        "name": "18080menachem nachum.jpg"
+      }
+    ]
+  },
+  {
+    "id": "godaven-10468",
+    "name": "Merkoz Doivrei Ivrit Merkoz Shiurei Torah",
+    "address": "845 Eastern Pkwy, Brooklyn, NY 11213, USA",
+    "photos": [
+      {
+        "url": "photos/10468.webp",
+        "original": "https://godaven-assets.sfo2.digitaloceanspaces.com/shul-images/1046826930_13269_110042760323517.jpg",
+        "source": "https://www.godaven.com/shul-details/10468",
+        "caption": "",
+        "name": "1046826930_13269_110042760323517.jpg"
+      }
+    ]
+  },
+  {
+    "id": "godaven-18085",
+    "name": "Reines Shul /Yeshiva Oholei Torah",
+    "address": "417 Troy Ave, Brooklyn, NY 11213, USA",
+    "photos": [
+      {
+        "url": "photos/18085.webp",
+        "original": "https://godaven-assets.sfo2.digitaloceanspaces.com/shul-images/1808526930_11911_263208299612.jpg",
+        "source": "https://www.godaven.com/shul-details/18085",
+        "caption": "",
+        "name": "1808526930_11911_263208299612.jpg"
+      }
+    ]
+  },
+  {
+    "id": "godaven-7051",
+    "name": "Shains Shul",
+    "address": "390 Kingston Ave, Brooklyn, NY 11225",
+    "photos": [
+      {
+        "url": "photos/7051.webp",
+        "original": "https://godaven-assets.sfo2.digitaloceanspaces.com/shul-images/705126930_13430_213461179229666.jpg",
+        "source": "https://www.godaven.com/shul-details/7051",
+        "caption": "",
+        "name": "705126930_13430_213461179229666.jpg"
+      }
+    ]
+  },
+  {
+    "id": "godaven-17152",
+    "name": "Tiferes Menachem (Rayim Ahuvim)",
+    "address": "1614 Carroll St, Brooklyn, NY 11213",
+    "photos": [
+      {
+        "url": "photos/17152.webp",
+        "original": "https://godaven-assets.sfo2.digitaloceanspaces.com/shul-images/17152tiferes_menachem_mailchimp.PNG",
+        "source": "https://www.godaven.com/shul-details/17152",
+        "caption": "",
+        "name": "17152tiferes_menachem_mailchimp.PNG"
+      }
+    ]
+  },
+  {
+    "id": "godaven-8309",
+    "name": "Yeshivas Tomchei Tmimim Lubavitch - Chovevei Torah",
+    "address": "885 Eastern Pkwy, Brooklyn, NY 11213, USA",
+    "photos": [
+      {
+        "url": "photos/8309.webp",
+        "original": "https://godaven-assets.sfo2.digitaloceanspaces.com/shul-images/830926930_14660_167781978415119.jpg",
+        "source": "https://www.godaven.com/shul-details/8309",
+        "caption": "",
+        "name": "830926930_14660_167781978415119.jpg"
+      }
+    ]
+  },
+  {
+    "id": "godaven-10897",
+    "name": "Beis Menachem Of Parkchester",
+    "address": "1270 Pugsley Ave, The Bronx, NY 10462, USA",
+    "photos": [
+      {
+        "url": "photos/10897.webp",
+        "original": "https://godaven-assets.sfo2.digitaloceanspaces.com/shul-images/10897Chabad%20of%20East%20Bronx.jpg",
+        "source": "https://www.godaven.com/shul-details/10897",
+        "caption": "",
+        "name": "10897Chabad of East Bronx.jpg"
+      }
+    ]
+  },
+  {
+    "id": "godaven-20445",
+    "name": "Congregation Bnai Jacob",
+    "address": "3017 Glenwood Rd, Brooklyn, NY 11210, USA",
+    "photos": [
+      {
+        "url": "photos/20445.webp",
+        "original": "https://godaven-assets.sfo2.digitaloceanspaces.com/shul-images/20445Optimized-Screen%20Shot%202017-08-21%20at%2012.30.37%20AM.jpeg",
+        "source": "https://www.godaven.com/shul-details/20445",
+        "caption": "",
+        "name": "20445Optimized-Screen Shot 2017-08-21 at 12.30.37 AM.jpeg"
+      }
+    ]
+  },
+  {
+    "id": "godaven-18073",
+    "name": "Eliyahu Nachum- Adas Israel-Lefferts",
+    "address": "672 Lefferts Ave, Brooklyn, NY 11203, USA",
+    "photos": [
+      {
+        "url": "photos/18073.webp",
+        "original": "https://godaven-assets.sfo2.digitaloceanspaces.com/shul-images/18073bba849527240def43bda8f1e8f6415c62a512fea.jpg",
+        "source": "https://www.godaven.com/shul-details/18073",
+        "caption": "",
+        "name": "18073bba849527240def43bda8f1e8f6415c62a512fea.jpg"
+      }
+    ]
+  },
+  {
+    "id": "godaven-8002",
+    "name": "Maple Street Shul Ahavas Moische/Itchkes Shteeble",
+    "address": "612 Maple St, Brooklyn, NY 11203, USA",
+    "photos": [
+      {
+        "url": "photos/8002.webp",
+        "original": "https://godaven-assets.sfo2.digitaloceanspaces.com/shul-images/800220120430-maple-st-shul-525x350.jpg",
+        "source": "https://www.godaven.com/shul-details/8002",
+        "caption": "",
+        "name": "800220120430-maple-st-shul-525x350.jpg"
+      }
+    ]
+  },
+  {
+    "id": "godaven-528",
+    "name": "Khal Bais Shmuel Abba",
+    "address": "5-15 Hicksville Rd, Far Rockaway, NY 11691, USA",
+    "photos": [
+      {
+        "url": "photos/528.webp",
+        "original": "https://godaven-assets.sfo2.digitaloceanspaces.com/shul-images/5280516171501.jpg",
+        "source": "https://www.godaven.com/shul-details/528",
+        "caption": "",
+        "name": "5280516171501.jpg"
+      }
+    ]
+  },
+  {
+    "id": "godaven-4872",
+    "name": "Mesivta Chaim Shlomo - Yeshiva Darchei Torah",
+    "address": "211 Beach 17th St, Far Rockaway, NY 11691, USA",
+    "photos": [
+      {
+        "url": "photos/4872.webp",
+        "original": "https://godaven-assets.sfo2.digitaloceanspaces.com/shul-images/4872School-v11-CAM02-070426-0824%20with%20name.jpg",
+        "source": "https://www.godaven.com/shul-details/4872",
+        "caption": "",
+        "name": "4872School-v11-CAM02-070426-0824 with name.jpg"
+      }
+    ]
+  },
+  {
+    "id": "godaven-21401",
+    "name": "Khal East 15 Studios",
+    "address": "829 E 15th St, Brooklyn, NY 11230, USA",
+    "photos": [
+      {
+        "url": "photos/21401.webp",
+        "original": "https://godaven-assets.sfo2.digitaloceanspaces.com/shul-images/21401_v9bxj6.jpg",
+        "source": "https://www.godaven.com/shul-details/21401",
+        "caption": "",
+        "name": "21401_v9bxj6.jpg"
+      }
+    ]
+  },
+  {
+    "id": "godaven-4475",
+    "name": "Congregation B'Nai Israel Of Midwood",
+    "address": "4815 Avenue I, Brooklyn, NY 11234, USA",
+    "photos": [
+      {
+        "url": "photos/4475.webp",
+        "original": "https://godaven-assets.sfo2.digitaloceanspaces.com/shul-images/447501092013%20Picture%20Bnai%20Israel%20of%20Midwood%20IMAG0564.jpg",
+        "source": "https://www.godaven.com/shul-details/4475",
+        "caption": "Main Entrance",
+        "name": "447501092013 Picture Bnai Israel of Midwood IMAG0564.jpg"
+      }
+    ]
+  },
+  {
+    "id": "godaven-20721",
+    "name": "Haichel Hakodesh",
+    "address": "1909 New York Ave, Brooklyn, NY 11210, USA",
+    "photos": [
+      {
+        "url": "photos/20721.webp",
+        "original": "https://godaven-assets.sfo2.digitaloceanspaces.com/shul-images/20721Haichel.jpg",
+        "source": "https://www.godaven.com/shul-details/20721",
+        "caption": "",
+        "name": "20721Haichel.jpg"
+      }
+    ]
+  },
+  {
+    "id": "godaven-16353",
+    "name": "Beis Medrash Ltalmud/Lander College For Men",
+    "address": "75-31 150th St, Flushing, NY 11367, USA",
+    "photos": [
+      {
+        "url": "photos/16353.webp",
+        "original": "https://godaven-assets.sfo2.digitaloceanspaces.com/shul-images/16353landers.jpg",
+        "source": "https://www.godaven.com/shul-details/16353",
+        "caption": "",
+        "name": "16353landers.jpg"
+      }
+    ]
+  },
+  {
+    "id": "godaven-556",
+    "name": "Beth Gavriel",
+    "address": "66-35 108th St, Flushing, NY 11375, USA",
+    "photos": [
+      {
+        "url": "photos/556.webp",
+        "original": "https://godaven-assets.sfo2.digitaloceanspaces.com/shul-images/556building.jpg",
+        "source": "https://www.godaven.com/shul-details/556",
+        "caption": "",
+        "name": "556building.jpg"
+      }
+    ]
+  },
+  {
+    "id": "godaven-25209",
+    "name": "Congregation Ohr Hatorah, Bet Midrash Musayoff",
+    "address": "141-32 73rd Ave, Flushing, NY 11367, USA",
+    "photos": [
+      {
+        "url": "photos/25209.webp",
+        "original": "https://godaven-assets.sfo2.digitaloceanspaces.com/shul-images/25209_dh1rhe.jpg",
+        "source": "https://www.godaven.com/shul-details/25209",
+        "caption": "",
+        "name": "25209_dh1rhe.jpg"
+      }
+    ]
+  },
+  {
+    "id": "godaven-18985",
+    "name": "Long Island Care Center",
+    "address": "144-61 38th Ave, Flushing, NY 11354, USA",
+    "photos": [
+      {
+        "url": "photos/18985.webp",
+        "original": "https://godaven-assets.sfo2.digitaloceanspaces.com/shul-images/18985Capture.PNG",
+        "source": "https://www.godaven.com/shul-details/18985",
+        "caption": "",
+        "name": "18985Capture.PNG"
+      }
+    ]
+  },
+  {
+    "id": "godaven-596",
+    "name": "Ohel Yitzchok",
+    "address": "137-58 70th Ave, Queens, NY 11367, USA",
+    "photos": [
+      {
+        "url": "photos/596.webp",
+        "original": "https://godaven-assets.sfo2.digitaloceanspaces.com/shul-images/596shul.jpg",
+        "source": "https://www.godaven.com/shul-details/596",
+        "caption": "",
+        "name": "596shul.jpg"
+      }
+    ]
+  },
+  {
+    "id": "godaven-568",
+    "name": "Queens Jewish Center",
+    "address": "66-05 108th St, Flushing, NY 11375, USA",
+    "photos": [
+      {
+        "url": "photos/568.webp",
+        "original": "https://godaven-assets.sfo2.digitaloceanspaces.com/shul-images/568QJC%20bldg.PNG",
+        "source": "https://www.godaven.com/shul-details/568",
+        "caption": "QJC building",
+        "name": "568QJC bldg.PNG"
+      }
+    ]
+  },
+  {
+    "id": "godaven-588",
+    "name": "Toras Emes",
+    "address": "78-15 Parsons Blvd, Flushing, NY 11366, USA",
+    "photos": [
+      {
+        "url": "photos/588.webp",
+        "original": "https://godaven-assets.sfo2.digitaloceanspaces.com/shul-images/588124a55ce954ea774cdc2db8c12a3f0e898f6c695_400x260_crop.jpg",
+        "source": "https://www.godaven.com/shul-details/588",
+        "caption": "the shul",
+        "name": "588124a55ce954ea774cdc2db8c12a3f0e898f6c695_400x260_crop.jpg"
+      }
+    ]
+  },
+  {
+    "id": "godaven-603",
+    "name": "Yeshiva Ohr Hachaim",
+    "address": "141-61 71st Ave, Flushing, NY 11367, USA",
+    "photos": [
+      {
+        "url": "photos/603.webp",
+        "original": "https://godaven-assets.sfo2.digitaloceanspaces.com/shul-images/60341_71av_yeshiva_ohr__hachaim.jpg",
+        "source": "https://www.godaven.com/shul-details/603",
+        "caption": "",
+        "name": "60341_71av_yeshiva_ohr__hachaim.jpg"
+      }
+    ]
+  },
+  {
+    "id": "godaven-4091",
+    "name": "Young Israel Of Hollis Hills/Windsor Park",
+    "address": "67-45 215th St, Flushing, NY 11364, USA",
+    "photos": [
+      {
+        "url": "photos/4091.webp",
+        "original": "https://godaven-assets.sfo2.digitaloceanspaces.com/shul-images/4091IMG_0340.jpg",
+        "source": "https://www.godaven.com/shul-details/4091",
+        "caption": "",
+        "name": "4091IMG_0340.jpg"
+      }
+    ]
+  },
+  {
+    "id": "godaven-2750",
+    "name": "Torah Center Of Hillcrest",
+    "address": "171-5 Jewel Ave, Fresh Meadows, NY 11365, USA",
+    "photos": [
+      {
+        "url": "photos/2750.webp",
+        "original": "https://godaven-assets.sfo2.digitaloceanspaces.com/shul-images/27502012-05-20_11.26.58.jpg",
+        "source": "https://www.godaven.com/shul-details/2750",
+        "caption": "",
+        "name": "27502012-05-20_11.26.58.jpg"
+      }
+    ]
+  },
+  {
+    "id": "godaven-19570",
+    "name": "Ahaba Ve Ahva",
+    "address": "1744 Ocean Pkwy, Brooklyn, NY 11223, USA",
+    "photos": [
+      {
+        "url": "photos/19570.webp",
+        "original": "https://godaven-assets.sfo2.digitaloceanspaces.com/shul-images/195704.jpg",
+        "source": "https://www.godaven.com/shul-details/19570",
+        "caption": "Ahaba Ve Ahva outside",
+        "name": "195704.jpg"
+      }
+    ]
+  },
+  {
+    "id": "godaven-5270",
+    "name": "Bnai Yosef",
+    "address": "1616 Ocean Pkwy, Brooklyn, NY 11223, USA",
+    "photos": [
+      {
+        "url": "photos/5270.webp",
+        "original": "https://godaven-assets.sfo2.digitaloceanspaces.com/shul-images/5270DSCF7817.JPG",
+        "source": "https://www.godaven.com/shul-details/5270",
+        "caption": "Main Sanctuary",
+        "name": "5270DSCF7817.JPG"
+      }
+    ]
+  },
+  {
+    "id": "godaven-23442",
+    "name": "King David Center",
+    "address": "2266 Cropsey Ave, Brooklyn, NY 11214, USA",
+    "photos": [
+      {
+        "url": "photos/23442.webp",
+        "original": "https://godaven-assets.sfo2.digitaloceanspaces.com/shul-images/23442_cfmdl.jfif",
+        "source": "https://www.godaven.com/shul-details/23442",
+        "caption": "",
+        "name": "23442_cfmdl.jfif"
+      }
+    ]
+  },
+  {
+    "id": "godaven-3404",
+    "name": "Moshe Ben Maimon / Chesed Abraham Congregation",
+    "address": "59 Gravesend Neck Rd, Brooklyn, NY 11223, USA",
+    "photos": [
+      {
+        "url": "photos/3404.webp",
+        "original": "https://godaven-assets.sfo2.digitaloceanspaces.com/shul-images/3404MMBM7.jpg",
+        "source": "https://www.godaven.com/shul-details/3404",
+        "caption": "",
+        "name": "3404MMBM7.jpg"
+      }
+    ]
+  },
+  {
+    "id": "godaven-5737",
+    "name": "Shaare Zion",
+    "address": "2030 Ocean Pkwy, Brooklyn, NY 11223, USA",
+    "photos": [
+      {
+        "url": "photos/5737.webp",
+        "original": "https://godaven-assets.sfo2.digitaloceanspaces.com/shul-images/5737Shaare%20Zion.jpg",
+        "source": "https://www.godaven.com/shul-details/5737",
+        "caption": "",
+        "name": "5737Shaare Zion.jpg"
+      }
+    ]
+  },
+  {
+    "id": "godaven-19845",
+    "name": "Shore Parkway Jewish Center",
+    "address": "8885 26th Ave, Brooklyn, NY 11214, USA",
+    "photos": [
+      {
+        "url": "photos/19845.webp",
+        "original": "https://godaven-assets.sfo2.digitaloceanspaces.com/shul-images/19845outsideshore.jpg",
+        "source": "https://www.godaven.com/shul-details/19845",
+        "caption": "",
+        "name": "19845outsideshore.jpg"
+      }
+    ]
+  },
+  {
+    "id": "godaven-6048",
+    "name": "Greenpoint Shul (Congregation Ahavas Israel)",
+    "address": "108 Noble St, Brooklyn, NY 11222, USA",
+    "photos": [
+      {
+        "url": "photos/6048.webp",
+        "original": "https://godaven-assets.sfo2.digitaloceanspaces.com/shul-images/6048_3mg0c.jpeg",
+        "source": "https://www.godaven.com/shul-details/6048",
+        "caption": "",
+        "name": "6048_3mg0c.jpeg"
+      }
+    ]
+  },
+  {
+    "id": "godaven-21611",
+    "name": "Newtel Office Minyan",
+    "address": "123 Doughty Blvd, Inwood, NY 11096, USA",
+    "photos": [
+      {
+        "url": "photos/21611.webp",
+        "original": "https://godaven-assets.sfo2.digitaloceanspaces.com/shul-images/21611_pkztib.jpg",
+        "source": "https://www.godaven.com/shul-details/21611",
+        "caption": "",
+        "name": "21611_pkztib.jpg"
+      }
+    ]
+  },
+  {
+    "id": "godaven-7682",
+    "name": "Anshe Sholom Chabad Jcc",
+    "address": "82-52 Abingdon Rd, Jamaica, NY 11415, USA",
+    "photos": [
+      {
+        "url": "photos/7682.webp",
+        "original": "https://godaven-assets.sfo2.digitaloceanspaces.com/shul-images/7682dBFY1047216.jpg",
+        "source": "https://www.godaven.com/shul-details/7682",
+        "caption": "Chabad",
+        "name": "7682dBFY1047216.jpg"
+      }
+    ]
+  },
+  {
+    "id": "godaven-24508",
+    "name": "Shuva Israel Of Jamaica Estates",
+    "address": "83-10 188th St, Jamaica, NY 11432, USA",
+    "photos": [
+      {
+        "url": "photos/24508.webp",
+        "original": "https://godaven-assets.sfo2.digitaloceanspaces.com/shul-images/24508_82692h.jpeg",
+        "source": "https://www.godaven.com/shul-details/24508",
+        "caption": "",
+        "name": "24508_82692h.jpeg"
+      }
+    ]
+  },
+  {
+    "id": "godaven-19526",
+    "name": "Bais Halevi",
+    "address": "671 E 7th St, Brooklyn, NY 11218, USA",
+    "photos": [
+      {
+        "url": "photos/19526.webp",
+        "original": "https://godaven-assets.sfo2.digitaloceanspaces.com/shul-images/19526ND_0mT5F_400x400.jpg",
+        "source": "https://www.godaven.com/shul-details/19526",
+        "caption": "",
+        "name": "19526ND_0mT5F_400x400.jpg"
+      }
+    ]
+  },
+  {
+    "id": "godaven-17834",
+    "name": "Congregation Agudath Sholom Of Flatbush",
+    "address": "3714 18th Ave, Brooklyn, NY 11218, USA",
+    "photos": [
+      {
+        "url": "photos/17834.webp",
+        "original": "https://godaven-assets.sfo2.digitaloceanspaces.com/shul-images/17834flatbush_cong_agudath_sholom.jpg",
+        "source": "https://www.godaven.com/shul-details/17834",
+        "caption": "",
+        "name": "17834flatbush_cong_agudath_sholom.jpg"
+      }
+    ]
+  },
+  {
+    "id": "godaven-16785",
+    "name": "Congregation Chevra Gemiluth Chesed",
+    "address": "771 McDonald Ave, Brooklyn, NY 11218, USA",
+    "photos": [
+      {
+        "url": "photos/16785.webp",
+        "original": "https://godaven-assets.sfo2.digitaloceanspaces.com/shul-images/1678511386684774_9eb756f2b3_n.jpg",
+        "source": "https://www.godaven.com/shul-details/16785",
+        "caption": "",
+        "name": "1678511386684774_9eb756f2b3_n.jpg"
+      }
+    ]
+  },
+  {
+    "id": "godaven-6930",
+    "name": "Congregation Lev Someach Alesk",
+    "address": "203 Avenue F, Brooklyn, NY 11218",
+    "photos": [
+      {
+        "url": "photos/6930.webp",
+        "original": "https://godaven-assets.sfo2.digitaloceanspaces.com/shul-images/6930alesk2.jpg",
+        "source": "https://www.godaven.com/shul-details/6930",
+        "caption": "",
+        "name": "6930alesk2.jpg"
+      }
+    ]
+  },
+  {
+    "id": "godaven-19758",
+    "name": "Khal Bais Hillel",
+    "address": "215 Cortelyou Rd, Brooklyn, NY 11218, USA",
+    "photos": [
+      {
+        "url": "photos/19758.webp",
+        "original": "https://godaven-assets.sfo2.digitaloceanspaces.com/shul-images/19758IMG_0680.jpg",
+        "source": "https://www.godaven.com/shul-details/19758",
+        "caption": "Front of the shul",
+        "name": "19758IMG_0680.jpg"
+      }
+    ]
+  },
+  {
+    "id": "godaven-1897",
+    "name": "Khal Machzeh Avrohom",
+    "address": "245 Foster Ave, Brooklyn, NY 11230, USA",
+    "photos": [
+      {
+        "url": "photos/1897.webp",
+        "original": "https://godaven-assets.sfo2.digitaloceanspaces.com/shul-images/1897wosner%20shul.jpeg",
+        "source": "https://www.godaven.com/shul-details/1897",
+        "caption": "",
+        "name": "1897wosner shul.jpeg"
+      }
+    ]
+  },
+  {
+    "id": "godaven-11350",
+    "name": "Business Mincha",
+    "address": "80-02 Kew Gardens Rd, Kew Gardens, NY 11415, USA",
+    "photos": [
+      {
+        "url": "photos/11350.webp",
+        "original": "https://godaven-assets.sfo2.digitaloceanspaces.com/shul-images/11350minyan%20picture.jpg",
+        "source": "https://www.godaven.com/shul-details/11350",
+        "caption": "Minyan on Tenth Floor",
+        "name": "11350minyan picture.jpg"
+      }
+    ]
+  },
+  {
+    "id": "godaven-8319",
+    "name": "Mesivta Ateres Yaakov",
+    "address": "131 Washington Ave, Lawrence, NY 11559, USA",
+    "photos": [
+      {
+        "url": "photos/8319.webp",
+        "original": "https://godaven-assets.sfo2.digitaloceanspaces.com/shul-images/8319Ateres%20Yaakov.jpg",
+        "source": "https://www.godaven.com/shul-details/8319",
+        "caption": "",
+        "name": "8319Ateres Yaakov.jpg"
+      }
+    ]
+  },
+  {
+    "id": "godaven-2520",
+    "name": "Yeshiva Shor Yoshuv",
+    "address": "1 CedarLawn Ave, Lawrence, NY 11559, USA",
+    "photos": [
+      {
+        "url": "photos/2520.webp",
+        "original": "https://godaven-assets.sfo2.digitaloceanspaces.com/shul-images/2520DSC_0102.JPG",
+        "source": "https://www.godaven.com/shul-details/2520",
+        "caption": "",
+        "name": "2520DSC_0102.JPG"
+      }
+    ]
+  },
+  {
+    "id": "godaven-16898",
+    "name": "Congregation Bais Meir - Regency",
+    "address": "5110 19th Ave, Brooklyn, NY 11204, USA",
+    "photos": [
+      {
+        "url": "photos/16898.webp",
+        "original": "https://godaven-assets.sfo2.digitaloceanspaces.com/shul-images/16898_l4i3n5.jpg",
+        "source": "https://www.godaven.com/shul-details/16898",
+        "caption": "",
+        "name": "16898_l4i3n5.jpg"
+      }
+    ]
+  },
+  {
+    "id": "godaven-20002",
+    "name": "Rimanov",
+    "address": "1870 53rd St, Brooklyn, NY 11204, USA",
+    "photos": [
+      {
+        "url": "photos/20002.webp",
+        "original": "https://godaven-assets.sfo2.digitaloceanspaces.com/shul-images/20002Rimanov%201870.jpg",
+        "source": "https://www.godaven.com/shul-details/20002",
+        "caption": "",
+        "name": "20002Rimanov 1870.jpg"
+      }
+    ]
+  },
+  {
+    "id": "godaven-7319",
+    "name": "Toldos Yitzchok Spinka",
+    "address": "5111 18th Ave, Brooklyn, NY 11204, USA",
+    "photos": [
+      {
+        "url": "photos/7319.webp",
+        "original": "https://godaven-assets.sfo2.digitaloceanspaces.com/shul-images/7319IMG_3982.JPG",
+        "source": "https://www.godaven.com/shul-details/7319",
+        "caption": "Spinka Rebbe",
+        "name": "7319IMG_3982.JPG"
+      }
+    ]
+  },
+  {
+    "id": "godaven-901",
+    "name": "Avenue N Jewish Center",
+    "address": "321 Avenue N, Brooklyn, NY 11230, USA",
+    "photos": [
+      {
+        "url": "photos/901.webp",
+        "original": "https://godaven-assets.sfo2.digitaloceanspaces.com/shul-images/901img_0072.jpg",
+        "source": "https://www.godaven.com/shul-details/901",
+        "caption": "",
+        "name": "901img_0072.jpg"
+      }
+    ]
+  },
+  {
+    "id": "godaven-1673",
+    "name": "Beis Menachem Mendel Of Flatbush",
+    "address": "1703 Avenue J, Brooklyn, NY 11230, USA",
+    "photos": [
+      {
+        "url": "photos/1673.webp",
+        "original": "https://godaven-assets.sfo2.digitaloceanspaces.com/shul-images/1673bmmpics.jpg",
+        "source": "https://www.godaven.com/shul-details/1673",
+        "caption": "",
+        "name": "1673bmmpics.jpg"
+      }
+    ]
+  },
+  {
+    "id": "godaven-22910",
+    "name": "Bet Midrash Tifereth Yisroel / Sephardic Youth Minyan (Lower Level)",
+    "address": "1694 Ocean Ave, Brooklyn, NY 11230, USA",
+    "photos": [
+      {
+        "url": "photos/22910.webp",
+        "original": "https://godaven-assets.sfo2.digitaloceanspaces.com/shul-images/22910_uum50q.jpg",
+        "source": "https://www.godaven.com/shul-details/22910",
+        "caption": "",
+        "name": "22910_uum50q.jpg"
+      }
+    ]
+  },
+  {
+    "id": "godaven-1157",
+    "name": "Beth Torah",
+    "address": "1061 Ocean Pkwy, Brooklyn, NY 11230, USA",
+    "photos": [
+      {
+        "url": "photos/1157.webp",
+        "original": "https://godaven-assets.sfo2.digitaloceanspaces.com/shul-images/1157beth-torah-brooklyn-wedding-br2.jpg",
+        "source": "https://www.godaven.com/shul-details/1157",
+        "caption": "",
+        "name": "1157beth-torah-brooklyn-wedding-br2.jpg"
+      }
+    ]
+  },
+  {
+    "id": "godaven-16775",
+    "name": "Cong. Bnai Shloma Zalman Vyelipole",
+    "address": "1093 E 21st St, Brooklyn, NY 11210, USA",
+    "photos": [
+      {
+        "url": "photos/16775.webp",
+        "original": "https://godaven-assets.sfo2.digitaloceanspaces.com/shul-images/16775_wb9he.jpg",
+        "source": "https://www.godaven.com/shul-details/16775",
+        "caption": "",
+        "name": "16775_wb9he.jpg"
+      }
+    ]
+  },
+  {
+    "id": "godaven-16766",
+    "name": "Congregation Bais Yeshaya",
+    "address": "978 E 22nd St, Brooklyn, NY 11210, USA",
+    "photos": [
+      {
+        "url": "photos/16766.webp",
+        "original": "https://godaven-assets.sfo2.digitaloceanspaces.com/shul-images/16766_8dk4d6.jpg",
+        "source": "https://www.godaven.com/shul-details/16766",
+        "caption": "",
+        "name": "16766_8dk4d6.jpg"
+      }
+    ]
+  },
+  {
+    "id": "godaven-16749",
+    "name": "Congregation Darchei Yosher",
+    "address": "1410 E 10th St, Brooklyn, NY 11230, USA",
+    "photos": [
+      {
+        "url": "photos/16749.webp",
+        "original": "https://godaven-assets.sfo2.digitaloceanspaces.com/shul-images/16749_kv0shm.jpg",
+        "source": "https://www.godaven.com/shul-details/16749",
+        "caption": "",
+        "name": "16749_kv0shm.jpg"
+      }
+    ]
+  },
+  {
+    "id": "godaven-16722",
+    "name": "Congregation Tiferes Yaakov",
+    "address": "1212 E 15th St, Brooklyn, NY 11230, USA",
+    "photos": [
+      {
+        "url": "photos/16722.webp",
+        "original": "https://godaven-assets.sfo2.digitaloceanspaces.com/shul-images/16722_dew49.jpg",
+        "source": "https://www.godaven.com/shul-details/16722",
+        "caption": "",
+        "name": "16722_dew49.jpg"
+      }
+    ]
+  },
+  {
+    "id": "godaven-19552",
+    "name": "Nezer Gedalyahu",
+    "address": "1370 Coney Island Ave, Brooklyn, NY 11230, USA",
+    "photos": [
+      {
+        "url": "photos/19552.webp",
+        "original": "https://godaven-assets.sfo2.digitaloceanspaces.com/shul-images/19552bmng.jpg",
+        "source": "https://www.godaven.com/shul-details/19552",
+        "caption": "",
+        "name": "19552bmng.jpg"
+      }
+    ]
+  },
+  {
+    "id": "godaven-8021",
+    "name": "Ohr Eliyahu Torah Center",
+    "address": "702 Avenue O, Brooklyn, NY 11230, USA",
+    "photos": [
+      {
+        "url": "photos/8021.webp",
+        "original": "https://godaven-assets.sfo2.digitaloceanspaces.com/shul-images/802122492014.jpg",
+        "source": "https://www.godaven.com/shul-details/8021",
+        "caption": "Our Shull",
+        "name": "802122492014.jpg"
+      }
+    ]
+  },
+  {
+    "id": "godaven-19560",
+    "name": "Yad Yosef Torah Center",
+    "address": "1036 Ocean Pkwy, Brooklyn, NY 11230, USA",
+    "photos": [
+      {
+        "url": "photos/19560.webp",
+        "original": "https://godaven-assets.sfo2.digitaloceanspaces.com/shul-images/19560Yad%20Yosef%20Torah%20Center.jpg",
+        "source": "https://www.godaven.com/shul-details/19560",
+        "caption": "",
+        "name": "19560Yad Yosef Torah Center.jpg"
+      }
+    ]
+  },
+  {
+    "id": "godaven-20451",
+    "name": "Yam Hatorah",
+    "address": "1573 E 10th St, Brooklyn, NY 11230, USA",
+    "photos": [
+      {
+        "url": "photos/20451.webp",
+        "original": "https://godaven-assets.sfo2.digitaloceanspaces.com/shul-images/20451CAM00165.jpg",
+        "source": "https://www.godaven.com/shul-details/20451",
+        "caption": "",
+        "name": "20451CAM00165.jpg"
+      }
+    ]
+  },
+  {
+    "id": "godaven-5801",
+    "name": "Flatbush Park Jewish Center",
+    "address": "6363 Avenue U, Brooklyn, NY 11234, USA",
+    "photos": [
+      {
+        "url": "photos/5801.webp",
+        "original": "https://godaven-assets.sfo2.digitaloceanspaces.com/shul-images/5801FPJC_SHUL.jpg",
+        "source": "https://www.godaven.com/shul-details/5801",
+        "caption": "Shul main entrance on Ave U",
+        "name": "5801FPJC_SHUL.jpg"
+      }
+    ]
+  },
+  {
+    "id": "godaven-20640",
+    "name": "Sapphire Care Group",
+    "address": "6085 Strickland Ave, Brooklyn, NY 11234, USA",
+    "photos": [
+      {
+        "url": "photos/20640.webp",
+        "original": "https://godaven-assets.sfo2.digitaloceanspaces.com/shul-images/20640Screenshot-2017-12-4%20Google%20Maps.jpg",
+        "source": "https://www.godaven.com/shul-details/20640",
+        "caption": "",
+        "name": "20640Screenshot-2017-12-4 Google Maps.jpg"
+      }
+    ]
+  },
+  {
+    "id": "godaven-19586",
+    "name": "A&L Doors",
+    "address": "375 E 163rd St, The Bronx, NY 10451, USA",
+    "photos": [
+      {
+        "url": "photos/19586.webp",
+        "original": "https://godaven-assets.sfo2.digitaloceanspaces.com/shul-images/19586.jpg",
+        "source": "https://www.godaven.com/shul-details/19586",
+        "caption": "",
+        "name": "19586.jpg"
+      }
+    ]
+  },
+  {
+    "id": "godaven-930",
+    "name": "Aur Torah Sephardic Minyan",
+    "address": "1180 Rockland Ave, Staten Island, NY 10314, USA",
+    "photos": [
+      {
+        "url": "photos/930.webp",
+        "original": "https://godaven-assets.sfo2.digitaloceanspaces.com/shul-images/930214edd9d8a694310d293f5d83c46ade0.jpg",
+        "source": "https://www.godaven.com/shul-details/930",
+        "caption": "",
+        "name": "930214edd9d8a694310d293f5d83c46ade0.jpg"
+      }
+    ]
+  },
+  {
+    "id": "godaven-24797",
+    "name": "1450 Broadway 17Th Floor",
+    "address": "1450 Broadway, New York, NY 10018, USA",
+    "photos": [
+      {
+        "url": "photos/24797.webp",
+        "original": "https://godaven-assets.sfo2.digitaloceanspaces.com/shul-images/24797_0vukn.jpg",
+        "source": "https://www.godaven.com/shul-details/24797",
+        "caption": "",
+        "name": "24797_0vukn.jpg"
+      }
+    ]
+  },
+  {
+    "id": "godaven-9038",
+    "name": "587 5Th Ave Minyan",
+    "address": "587 5th Ave, New York, NY 10017, USA",
+    "photos": [
+      {
+        "url": "photos/9038.webp",
+        "original": "https://godaven-assets.sfo2.digitaloceanspaces.com/shul-images/90382nd%20Shul.JPG",
+        "source": "https://www.godaven.com/shul-details/9038",
+        "caption": "View from Teiva",
+        "name": "90382nd Shul.JPG"
+      }
+    ]
+  },
+  {
+    "id": "godaven-17715",
+    "name": "600 3Rd Ave Mincha",
+    "address": "600 3rd Ave, New York, NY 10016, USA",
+    "photos": [
+      {
+        "url": "photos/17715.webp",
+        "original": "https://godaven-assets.sfo2.digitaloceanspaces.com/shul-images/177152_454x340.jpg",
+        "source": "https://www.godaven.com/shul-details/17715",
+        "caption": "",
+        "name": "177152_454x340.jpg"
+      }
+    ]
+  },
+  {
+    "id": "godaven-919",
+    "name": "Adereth El",
+    "address": "133 E 29th St, New York, NY 10016, USA",
+    "photos": [
+      {
+        "url": "photos/919.webp",
+        "original": "https://godaven-assets.sfo2.digitaloceanspaces.com/shul-images/919sanctuary.jpg",
+        "source": "https://www.godaven.com/shul-details/919",
+        "caption": "",
+        "name": "919sanctuary.jpg"
+      }
+    ]
+  },
+  {
+    "id": "godaven-1077",
+    "name": "Austria Hungary Anshe Sfard",
+    "address": "239 E Broadway, New York, NY 10002, USA",
+    "photos": [
+      {
+        "url": "photos/1077.webp",
+        "original": "https://godaven-assets.sfo2.digitaloceanspaces.com/shul-images/1077IMG_20110324_132053.jpg",
+        "source": "https://www.godaven.com/shul-details/1077",
+        "caption": "",
+        "name": "1077IMG_20110324_132053.jpg"
+      }
+    ]
+  },
+  {
+    "id": "godaven-20042",
+    "name": "Bet Eliyahu Of Midtown East",
+    "address": "295 Madison Avenue, On 41st b/t Madison and Park, New York, NY 10017, United States",
+    "photos": [
+      {
+        "url": "photos/20042.webp",
+        "original": "https://godaven-assets.sfo2.digitaloceanspaces.com/shul-images/20042IMG_20180131_102339_01.jpg",
+        "source": "https://www.godaven.com/shul-details/20042",
+        "caption": "",
+        "name": "20042IMG_20180131_102339_01.jpg"
+      }
+    ]
+  },
+  {
+    "id": "godaven-59",
+    "name": "Bialystoker Shul",
+    "address": "7 Willett St, New York, NY 10002, USA",
+    "photos": [
+      {
+        "url": "photos/59.webp",
+        "original": "https://godaven-assets.sfo2.digitaloceanspaces.com/shul-images/59Bialysticjer%20Synagogue-070110.jpg",
+        "source": "https://www.godaven.com/shul-details/59",
+        "caption": "",
+        "name": "59Bialysticjer Synagogue-070110.jpg"
+      }
+    ]
+  },
+  {
+    "id": "godaven-1079",
+    "name": "Boyaner Bais Medrash",
+    "address": "247 E Broadway, New York, NY 10002, USA",
+    "photos": [
+      {
+        "url": "photos/1079.webp",
+        "original": "https://godaven-assets.sfo2.digitaloceanspaces.com/shul-images/1079downtown2.jpg",
+        "source": "https://www.godaven.com/shul-details/1079",
+        "caption": "",
+        "name": "1079downtown2.jpg"
+      }
+    ]
+  },
+  {
+    "id": "godaven-22850",
+    "name": "East 58Th Street Minyan ",
+    "address": "122 E 58th St, New York, NY 10022, USA",
+    "photos": [
+      {
+        "url": "photos/22850.webp",
+        "original": "https://godaven-assets.sfo2.digitaloceanspaces.com/shul-images/22850_wj035i.JPG",
+        "source": "https://www.godaven.com/shul-details/22850",
+        "caption": "",
+        "name": "22850_wj035i.JPG"
+      }
+    ]
+  },
+  {
+    "id": "godaven-2741",
+    "name": "Edmond J. Safra Synagogue/Congregation Beit Edmond",
+    "address": "11 E 63rd St, New York, NY 10065, USA",
+    "photos": [
+      {
+        "url": "photos/2741.webp",
+        "original": "https://godaven-assets.sfo2.digitaloceanspaces.com/shul-images/2741IMG_5954.jpg",
+        "source": "https://www.godaven.com/shul-details/2741",
+        "caption": "Synagogue Entrance",
+        "name": "2741IMG_5954.jpg"
+      }
+    ]
+  },
+  {
+    "id": "godaven-11839",
+    "name": "Kehila Kedosha Janina",
+    "address": "280 Broome St, New York, NY 10002, USA",
+    "photos": [
+      {
+        "url": "photos/11839.webp",
+        "original": "https://godaven-assets.sfo2.digitaloceanspaces.com/shul-images/11839Kehila_Kedosha_Janina.jpg",
+        "source": "https://www.godaven.com/shul-details/11839",
+        "caption": "Restored exterior",
+        "name": "11839Kehila_Kedosha_Janina.jpg"
+      }
+    ]
+  },
+  {
+    "id": "godaven-81",
+    "name": "Khal Adath Jeshurun",
+    "address": "85 Bennett Ave, New York, NY 10033, USA",
+    "photos": [
+      {
+        "url": "photos/81.webp",
+        "original": "https://godaven-assets.sfo2.digitaloceanspaces.com/shul-images/81KAJ-WH.jpg",
+        "source": "https://www.godaven.com/shul-details/81",
+        "caption": "",
+        "name": "81KAJ-WH.jpg"
+      }
+    ]
+  },
+  {
+    "id": "godaven-3407",
+    "name": "Lincoln Square Synagogue",
+    "address": "180 Amsterdam Ave, New York, NY 10023, USA",
+    "photos": [
+      {
+        "url": "photos/3407.webp",
+        "original": "https://godaven-assets.sfo2.digitaloceanspaces.com/shul-images/3407CRI%20rendering%5B1%5D.jpg",
+        "source": "https://www.godaven.com/shul-details/3407",
+        "caption": "",
+        "name": "3407CRI rendering[1].jpg"
+      }
+    ]
+  },
+  {
+    "id": "godaven-1071",
+    "name": "Mesivta Tiferes Jerusalem (Mtj)",
+    "address": "145 E Broadway, New York, NY 10002, USA",
+    "photos": [
+      {
+        "url": "photos/1071.webp",
+        "original": "https://godaven-assets.sfo2.digitaloceanspaces.com/shul-images/1071Mesivtha_Tifereth_Jerusalem.jpg",
+        "source": "https://www.godaven.com/shul-details/1071",
+        "caption": "",
+        "name": "1071Mesivtha_Tifereth_Jerusalem.jpg"
+      }
+    ]
+  },
+  {
+    "id": "godaven-1799",
+    "name": "Millinery Center Synagogue",
+    "address": "1025 6th Ave, New York, NY 10018, USA",
+    "photos": [
+      {
+        "url": "photos/1799.webp",
+        "original": "https://godaven-assets.sfo2.digitaloceanspaces.com/shul-images/179921584880_10155110330124895_1255142964_n.jpg",
+        "source": "https://www.godaven.com/shul-details/1799",
+        "caption": "",
+        "name": "179921584880_10155110330124895_1255142964_n.jpg"
+      }
+    ]
+  },
+  {
+    "id": "godaven-2184",
+    "name": "Nyu Minyan",
+    "address": "5 University Pl #11, New York, NY 10003, USA",
+    "photos": [
+      {
+        "url": "photos/2184.webp",
+        "original": "https://godaven-assets.sfo2.digitaloceanspaces.com/shul-images/2184bronfman%20center.jpeg",
+        "source": "https://www.godaven.com/shul-details/2184",
+        "caption": "",
+        "name": "2184bronfman center.jpeg"
+      }
+    ]
+  },
+  {
+    "id": "godaven-920",
+    "name": "Old Broadway Synagogue",
+    "address": "15 Old Broadway, New York, NY 10027, USA",
+    "photos": [
+      {
+        "url": "photos/920.webp",
+        "original": "https://godaven-assets.sfo2.digitaloceanspaces.com/shul-images/920Shul%20Facade%2012-15-2011%206-04-11%20PM%20284x422.jpg",
+        "source": "https://www.godaven.com/shul-details/920",
+        "caption": "",
+        "name": "920Shul Facade 12-15-2011 6-04-11 PM 284x422.jpg"
+      }
+    ]
+  },
+  {
+    "id": "godaven-1472",
+    "name": "Stanton St. Shul",
+    "address": "180 Stanton St, New York, NY 10002, USA",
+    "photos": [
+      {
+        "url": "photos/1472.webp",
+        "original": "https://godaven-assets.sfo2.digitaloceanspaces.com/shul-images/1472StantonStShul.jpg",
+        "source": "https://www.godaven.com/shul-details/1472",
+        "caption": "",
+        "name": "1472StantonStShul.jpg"
+      }
+    ]
+  },
+  {
+    "id": "godaven-25399",
+    "name": "The Wall Street Synagogue",
+    "address": "47 Beekman St, New York, NY 10038, USA",
+    "photos": [
+      {
+        "url": "photos/7097.webp",
+        "original": "https://godaven-assets.sfo2.digitaloceanspaces.com/shul-images/7097Synagoguefrontdoor.jpg",
+        "source": "https://www.godaven.com/shul-details/7097",
+        "caption": "",
+        "name": "7097Synagoguefrontdoor.jpg"
+      }
+    ]
+  },
+  {
+    "id": "godaven-101",
+    "name": "Weil  Gotshal & Manges  Llp",
+    "address": "767 5th Ave, New York, NY 10153, USA",
+    "photos": [
+      {
+        "url": "photos/101.webp",
+        "original": "https://godaven-assets.sfo2.digitaloceanspaces.com/shul-images/101GeneralMotorsBuilding-001.jpg",
+        "source": "https://www.godaven.com/shul-details/101",
+        "caption": "GM Building - Weil  Suite 2918",
+        "name": "101GeneralMotorsBuilding-001.jpg"
+      }
+    ]
+  },
+  {
+    "id": "godaven-524",
+    "name": "Ohab Zedek",
+    "address": "134-1 Rockaway Beach Blvd, Rockaway Park, NY 11694, USA",
+    "photos": [
+      {
+        "url": "photos/524.webp",
+        "original": "https://godaven-assets.sfo2.digitaloceanspaces.com/shul-images/524ozinside.jpg",
+        "source": "https://www.godaven.com/shul-details/524",
+        "caption": "",
+        "name": "524ozinside.jpg"
+      }
+    ]
+  },
+  {
+    "id": "godaven-8458",
+    "name": "Bnei Shelomo Vyaffa",
+    "address": "1305 Gravesend Neck Rd, Brooklyn, NY 11229, USA",
+    "photos": [
+      {
+        "url": "photos/8458.webp",
+        "original": "https://godaven-assets.sfo2.digitaloceanspaces.com/shul-images/8458untitled.png",
+        "source": "https://www.godaven.com/shul-details/8458",
+        "caption": "",
+        "name": "8458untitled.png"
+      }
+    ]
+  },
+  {
+    "id": "godaven-6594",
+    "name": "Young Israel Of Avenue U",
+    "address": "2119 Homecrest Ave, Brooklyn, NY 11229, USA",
+    "photos": [
+      {
+        "url": "photos/6594.webp",
+        "original": "https://godaven-assets.sfo2.digitaloceanspaces.com/shul-images/6594yi%20u.jpg",
+        "source": "https://www.godaven.com/shul-details/6594",
+        "caption": "",
+        "name": "6594yi u.jpg"
+      }
+    ]
+  },
+  {
+    "id": "godaven-2854",
+    "name": "Young Israel Of Bedford Bay And Madison",
+    "address": "2114 Brown St, Brooklyn, NY 11229, USA",
+    "photos": [
+      {
+        "url": "photos/2854.webp",
+        "original": "https://godaven-assets.sfo2.digitaloceanspaces.com/shul-images/2854cache_4099499375.jpg",
+        "source": "https://www.godaven.com/shul-details/2854",
+        "caption": "",
+        "name": "2854cache_4099499375.jpg"
+      }
+    ]
+  },
+  {
+    "id": "godaven-16272",
+    "name": "Young Israel Of Kings Bay",
+    "address": "3007 Ocean Ave, Brooklyn, NY 11235, USA",
+    "photos": [
+      {
+        "url": "photos/16272.webp",
+        "original": "https://godaven-assets.sfo2.digitaloceanspaces.com/shul-images/16272yikb.jpg",
+        "source": "https://www.godaven.com/shul-details/16272",
+        "caption": "",
+        "name": "16272yikb.jpg"
+      }
+    ]
+  },
+  {
+    "id": "godaven-25579",
+    "name": "Platinum Hc",
+    "address": "170 53rd St, Brooklyn, NY 11232, USA",
+    "photos": [
+      {
+        "url": "photos/25579.webp",
+        "original": "https://godaven-assets.sfo2.digitaloceanspaces.com/shul-images/25579_gri9r.jpeg",
+        "source": "https://www.godaven.com/shul-details/25579",
+        "caption": "",
+        "name": "25579_gri9r.jpeg"
+      }
+    ]
+  },
+  {
+    "id": "godaven-2779",
+    "name": "Van Cortlandt Jewish Center",
+    "address": "3880 Sedgwick Ave, The Bronx, NY 10463, USA",
+    "photos": [
+      {
+        "url": "photos/2779.webp",
+        "original": "https://godaven-assets.sfo2.digitaloceanspaces.com/shul-images/2779VCJC1.jpg",
+        "source": "https://www.godaven.com/shul-details/2779",
+        "caption": "The VCJC welcomes you!",
+        "name": "2779VCJC1.jpg"
+      }
+    ]
+  },
+  {
+    "id": "godaven-347",
+    "name": "Adas Yereim Vien",
+    "address": "27 Lee Ave, Brooklyn, NY 11211, USA",
+    "photos": [
+      {
+        "url": "photos/347.webp",
+        "original": "https://godaven-assets.sfo2.digitaloceanspaces.com/shul-images/347vien.jpg",
+        "source": "https://www.godaven.com/shul-details/347",
+        "caption": "",
+        "name": "347vien.jpg"
+      }
+    ]
+  },
+  {
+    "id": "godaven-1310",
+    "name": "Beth Jacob-Ohev Shalom",
+    "address": "284 Rodney St, Brooklyn, NY 11211, USA",
+    "photos": [
+      {
+        "url": "photos/1310.webp",
+        "original": "https://godaven-assets.sfo2.digitaloceanspaces.com/shul-images/1310shul6.jpg",
+        "source": "https://www.godaven.com/shul-details/1310",
+        "caption": "",
+        "name": "1310shul6.jpg"
+      }
+    ]
+  },
+  {
+    "id": "godaven-18128",
+    "name": "Bfg",
+    "address": "134 Broadway, Brooklyn, NY 11249, USA",
+    "photos": [
+      {
+        "url": "photos/18128.webp",
+        "original": "https://godaven-assets.sfo2.digitaloceanspaces.com/shul-images/18128134.jpg",
+        "source": "https://www.godaven.com/shul-details/18128",
+        "caption": "",
+        "name": "18128134.jpg"
+      }
+    ]
+  },
+  {
+    "id": "godaven-4036",
+    "name": "Cong Yetev Lev D'Satmar",
+    "address": "13 Hooper St, Brooklyn, NY 11249, USA",
+    "photos": [
+      {
+        "url": "photos/4036.webp",
+        "original": "https://godaven-assets.sfo2.digitaloceanspaces.com/shul-images/4036satmar%20hooper%203.jpg",
+        "source": "https://www.godaven.com/shul-details/4036",
+        "caption": "",
+        "name": "4036satmar hooper 3.jpg"
+      }
+    ]
+  },
+  {
+    "id": "godaven-21228",
+    "name": "Cong. Darkei Tshivo Of Dinov / Dinev",
+    "address": "77 Wallabout St, Brooklyn, NY 11249, USA",
+    "photos": [
+      {
+        "url": "photos/21228.webp",
+        "original": "https://godaven-assets.sfo2.digitaloceanspaces.com/shul-images/21228Deenuv_400x400.jpg",
+        "source": "https://www.godaven.com/shul-details/21228",
+        "caption": "",
+        "name": "21228Deenuv_400x400.jpg"
+      }
+    ]
+  },
+  {
+    "id": "godaven-1995",
+    "name": "Cong. Yetev Lev Dsatmar (Satmar Main Shul)",
+    "address": "Satmar Synagogue, 152 Rodney St, Brooklyn, NY 11211, USA",
+    "photos": [
+      {
+        "url": "photos/1995.webp",
+        "original": "https://godaven-assets.sfo2.digitaloceanspaces.com/shul-images/1995Untitled.png",
+        "source": "https://www.godaven.com/shul-details/1995",
+        "caption": "",
+        "name": "1995Untitled.png"
+      }
+    ]
+  },
+  {
+    "id": "godaven-2730",
+    "name": "Cong. Yetev Lev Satmar Tehilas Joel",
+    "address": "128 Rutledge St, Brooklyn, NY 11211, USA",
+    "photos": [
+      {
+        "url": "photos/2730.webp",
+        "original": "https://godaven-assets.sfo2.digitaloceanspaces.com/shul-images/27302010125_6345726835_jpg.jpg",
+        "source": "https://www.godaven.com/shul-details/2730",
+        "caption": "",
+        "name": "27302010125_6345726835_jpg.jpg"
+      }
+    ]
+  },
+  {
+    "id": "godaven-16701",
+    "name": "Congregation Toras Chaim Viznitz",
+    "address": "6 Lee Ave, Brooklyn, NY 11211, USA",
+    "photos": [
+      {
+        "url": "photos/16701.webp",
+        "original": "https://godaven-assets.sfo2.digitaloceanspaces.com/shul-images/16701Congregation%20Viznitz%206%20Lee%20Ave%20Williamsburg%20New%20York.jpg",
+        "source": "https://www.godaven.com/shul-details/16701",
+        "caption": "",
+        "name": "16701Congregation Viznitz 6 Lee Ave Williamsburg New York.jpg"
+      }
+    ]
+  },
+  {
+    "id": "godaven-3856",
+    "name": "Kahal Toldos Tzvi Spinka",
+    "address": "42 Penn St #44, Brooklyn, NY 11249, USA",
+    "photos": [
+      {
+        "url": "photos/3856.webp",
+        "original": "https://godaven-assets.sfo2.digitaloceanspaces.com/shul-images/3856UNTITLED-1.JPG",
+        "source": "https://www.godaven.com/shul-details/3856",
+        "caption": "",
+        "name": "3856UNTITLED-1.JPG"
+      }
+    ]
+  },
+  {
+    "id": "godaven-2663",
+    "name": "Kehillas Yakov Pupa",
+    "address": "654 Bedford Ave, Brooklyn, NY 11211, USA",
+    "photos": [
+      {
+        "url": "photos/2663.webp",
+        "original": "https://godaven-assets.sfo2.digitaloceanspaces.com/shul-images/2663pppppaaaap.jpg",
+        "source": "https://www.godaven.com/shul-details/2663",
+        "caption": "",
+        "name": "2663pppppaaaap.jpg"
+      }
+    ]
+  },
+  {
+    "id": "godaven-17067",
+    "name": "Satmar Lee Gardens",
+    "address": "2 Lorimer St, Brooklyn, NY 11206, USA",
+    "photos": [
+      {
+        "url": "photos/17067.webp",
+        "original": "https://godaven-assets.sfo2.digitaloceanspaces.com/shul-images/17067lee.jpg",
+        "source": "https://www.godaven.com/shul-details/17067",
+        "caption": "",
+        "name": "17067lee.jpg"
+      }
+    ]
+  },
+  {
+    "id": "godaven-21974",
+    "name": "Stolin ",
+    "address": "216 Keap St, Brooklyn, NY 11211, USA",
+    "photos": [
+      {
+        "url": "photos/21974.webp",
+        "original": "https://godaven-assets.sfo2.digitaloceanspaces.com/shul-images/21974_87y4no.jpg",
+        "source": "https://www.godaven.com/shul-details/21974",
+        "caption": "",
+        "name": "21974_87y4no.jpg"
+      }
+    ]
+  },
+  {
+    "id": "godaven-536",
+    "name": "Aish Kodesh",
+    "address": "894 Woodmere Pl, Woodmere, NY 11598",
+    "photos": [
+      {
+        "url": "photos/536.webp",
+        "original": "https://godaven-assets.sfo2.digitaloceanspaces.com/shul-images/536aish_pano_2007_080928_6x4.jpg",
+        "source": "https://www.godaven.com/shul-details/536",
+        "caption": "",
+        "name": "536aish_pano_2007_080928_6x4.jpg"
+      }
+    ]
+  },
+  {
+    "id": "godaven-278",
+    "name": "Khal Zichron Yaakov",
+    "address": "175 Sunset Rd, Lakewood, NJ 08701, USA",
+    "photos": [
+      {
+        "url": "photos/278.webp",
+        "original": "https://godaven-assets.sfo2.digitaloceanspaces.com/shul-images/278ZICHRONYAAKOV.jpg",
+        "source": "https://www.godaven.com/shul-details/278",
+        "caption": "",
+        "name": "278ZICHRONYAAKOV.jpg"
+      }
+    ]
+  },
+  {
+    "id": "godaven-329",
+    "name": "Tifereth Israel",
+    "address": "180 Passaic Ave, Passaic, NJ 07055, USA",
+    "photos": [
+      {
+        "url": "photos/329.webp",
+        "original": "https://godaven-assets.sfo2.digitaloceanspaces.com/shul-images/329DSC02149_2.jpg",
+        "source": "https://www.godaven.com/shul-details/329",
+        "caption": "Tifereth Israel - Beauty Shot of Exterior",
+        "name": "329DSC02149_2.jpg"
+      }
+    ]
+  },
+  {
+    "id": "godaven-1695",
+    "name": "Beth Medrash Govoha",
+    "address": "617 6th St, Lakewood, NJ 08701, USA",
+    "photos": [
+      {
+        "url": "photos/1695.webp",
+        "original": "https://godaven-assets.sfo2.digitaloceanspaces.com/shul-images/1695183804_Beth_Medrash_Govoha.JPG",
+        "source": "https://www.godaven.com/shul-details/1695",
+        "caption": "",
+        "name": "1695183804_Beth_Medrash_Govoha.JPG"
+      }
+    ]
+  },
+  {
+    "id": "godaven-1696",
+    "name": "Avreichim",
+    "address": "814 Madison Ave, Lakewood, NJ 08701, USA",
+    "photos": [
+      {
+        "url": "photos/1696.webp",
+        "original": "https://godaven-assets.sfo2.digitaloceanspaces.com/shul-images/1696DSC03495%20-%20BMG%20Lakewood%20Avreichim%20-%20Madosin%20Ave%20-%20less%20than%203mb.jpg",
+        "source": "https://www.godaven.com/shul-details/1696",
+        "caption": "",
+        "name": "1696DSC03495 - BMG Lakewood Avreichim - Madosin Ave - less than 3mb.jpg"
+      }
+    ]
+  },
+  {
+    "id": "godaven-3889",
+    "name": "Shemen Lmincha D'Nodfola",
+    "address": "2 Milano Dr, Lakewood, NJ 08701, USA",
+    "photos": [
+      {
+        "url": "photos/3889.webp",
+        "original": "https://godaven-assets.sfo2.digitaloceanspaces.com/shul-images/38892017-04-09.jpg",
+        "source": "https://www.godaven.com/shul-details/3889",
+        "caption": "",
+        "name": "38892017-04-09.jpg"
+      }
+    ]
+  },
+  {
+    "id": "godaven-4212",
+    "name": "Bais Mordechai",
+    "address": "1455 Heathwood Ave, Lakewood, NJ 08701, USA",
+    "photos": [
+      {
+        "url": "photos/4212.webp",
+        "original": "https://godaven-assets.sfo2.digitaloceanspaces.com/shul-images/4212skulen.jpg",
+        "source": "https://www.godaven.com/shul-details/4212",
+        "caption": "",
+        "name": "4212skulen.jpg"
+      }
+    ]
+  },
+  {
+    "id": "godaven-4458",
+    "name": "Bais Shabsi",
+    "address": "61 Pawnee Rd, Lakewood, NJ 08701, USA",
+    "photos": [
+      {
+        "url": "photos/4458.webp",
+        "original": "https://godaven-assets.sfo2.digitaloceanspaces.com/shul-images/4458_vqz78j.jfif",
+        "source": "https://www.godaven.com/shul-details/4458",
+        "caption": "",
+        "name": "4458_vqz78j.jfif"
+      }
+    ]
+  },
+  {
+    "id": "godaven-6128",
+    "name": "Bais Medrash Of New Central",
+    "address": "1845 New Central Ave, Lakewood, NJ 08701, USA",
+    "photos": [
+      {
+        "url": "photos/6128.webp",
+        "original": "https://godaven-assets.sfo2.digitaloceanspaces.com/shul-images/6128KehilaNewCentral.jpg",
+        "source": "https://www.godaven.com/shul-details/6128",
+        "caption": "",
+        "name": "6128KehilaNewCentral.jpg"
+      }
+    ]
+  },
+  {
+    "id": "godaven-7303",
+    "name": "Khal Zichron Meir / Spruce St. Shul",
+    "address": "177 Spruce St, Lakewood, NJ 08701, USA",
+    "photos": [
+      {
+        "url": "photos/7303.webp",
+        "original": "https://godaven-assets.sfo2.digitaloceanspaces.com/shul-images/7303Untitled.png",
+        "source": "https://www.godaven.com/shul-details/7303",
+        "caption": "K`hal Zichron Meir of Spruce st",
+        "name": "7303Untitled.png"
+      }
+    ]
+  },
+  {
+    "id": "godaven-7924",
+    "name": "Bais Medrash Kol Aryeh",
+    "address": "521 Hope Chapel Rd, Lakewood, NJ 08701, USA",
+    "photos": [
+      {
+        "url": "photos/7924.webp",
+        "original": "https://godaven-assets.sfo2.digitaloceanspaces.com/shul-images/7924MoshePeretz.jpg",
+        "source": "https://www.godaven.com/shul-details/7924",
+        "caption": "",
+        "name": "7924MoshePeretz.jpg"
+      }
+    ]
+  },
+  {
+    "id": "godaven-8282",
+    "name": "Bais Medrash Of High Street (Cong. Forest Glen)",
+    "address": "27 Grassmere St, Lakewood, NJ 08701, USA",
+    "photos": [
+      {
+        "url": "photos/8282.webp",
+        "original": "https://godaven-assets.sfo2.digitaloceanspaces.com/shul-images/8282xnEpKUs8.jpg",
+        "source": "https://www.godaven.com/shul-details/8282",
+        "caption": "",
+        "name": "8282xnEpKUs8.jpg"
+      }
+    ]
+  },
+  {
+    "id": "godaven-9674",
+    "name": "Chesterfield Commons Shul",
+    "address": "119 Walnut Ave, Lakewood, NJ 08701, USA",
+    "photos": [
+      {
+        "url": "photos/9674.webp",
+        "original": "https://godaven-assets.sfo2.digitaloceanspaces.com/shul-images/9674ccs.jpg",
+        "source": "https://www.godaven.com/shul-details/9674",
+        "caption": "",
+        "name": "9674ccs.jpg"
+      }
+    ]
+  },
+  {
+    "id": "godaven-16920",
+    "name": "Congregation Tiferes Shalom Nadvorna",
+    "address": "415 Monmouth Ave, Lakewood, NJ 08701, USA",
+    "photos": [
+      {
+        "url": "photos/16920.webp",
+        "original": "https://godaven-assets.sfo2.digitaloceanspaces.com/shul-images/16920nadvorna.jpg",
+        "source": "https://www.godaven.com/shul-details/16920",
+        "caption": "",
+        "name": "16920nadvorna.jpg"
+      }
+    ]
+  },
+  {
+    "id": "godaven-19830",
+    "name": "Bais Medrash Ohr Shimon",
+    "address": "1528 Newport Dr, Lakewood, NJ 08701, USA",
+    "photos": [
+      {
+        "url": "photos/19830.webp",
+        "original": "https://godaven-assets.sfo2.digitaloceanspaces.com/shul-images/19830ohr-shimon.jpg",
+        "source": "https://www.godaven.com/shul-details/19830",
+        "caption": "",
+        "name": "19830ohr-shimon.jpg"
+      }
+    ]
+  },
+  {
+    "id": "godaven-19960",
+    "name": "Congregation Stamford Meadows",
+    "address": "12 Golders Green Rd, Lakewood, NJ 08701, USA",
+    "photos": [
+      {
+        "url": "photos/19960.webp",
+        "original": "https://godaven-assets.sfo2.digitaloceanspaces.com/shul-images/19960_8gfzbo.jpg",
+        "source": "https://www.godaven.com/shul-details/19960",
+        "caption": "",
+        "name": "19960_8gfzbo.jpg"
+      }
+    ]
+  },
+  {
+    "id": "godaven-20104",
+    "name": "Belz (Harmony Park)",
+    "address": "44 Grove Springs Ct, Lakewood, NJ 08701, USA",
+    "photos": [
+      {
+        "url": "photos/20104.webp",
+        "original": "https://godaven-assets.sfo2.digitaloceanspaces.com/shul-images/20104_kv0mkf.png",
+        "source": "https://www.godaven.com/shul-details/20104",
+        "caption": "",
+        "name": "20104_kv0mkf.png"
+      }
+    ]
+  },
+  {
+    "id": "godaven-22106",
+    "name": "Yeshiva M'Kor Chaim ",
+    "address": "160 Locust St, Lakewood, NJ 08701, USA",
+    "photos": [
+      {
+        "url": "photos/22106.webp",
+        "original": "https://godaven-assets.sfo2.digitaloceanspaces.com/shul-images/22106_e9mk74.png",
+        "source": "https://www.godaven.com/shul-details/22106",
+        "caption": "",
+        "name": "22106_e9mk74.png"
+      }
+    ]
+  },
+  {
+    "id": "godaven-23142",
+    "name": "Khal Chateau Park - Bais Hamidrash Yeshuos Yakov | Harav Wosner ",
+    "address": "36 Pine Blvd, Lakewood, NJ 08701, USA",
+    "photos": [
+      {
+        "url": "photos/23142.webp",
+        "original": "https://godaven-assets.sfo2.digitaloceanspaces.com/shul-images/23142_4zn60m.png",
+        "source": "https://www.godaven.com/shul-details/23142",
+        "caption": "",
+        "name": "23142_4zn60m.png"
+      }
+    ]
+  },
+  {
+    "id": "godaven-325",
+    "name": "Bais Medrash L'Torah",
+    "address": "181 Lafayette Ave, Passaic, NJ 07055, USA",
+    "photos": [
+      {
+        "url": "photos/325.webp",
+        "original": "https://godaven-assets.sfo2.digitaloceanspaces.com/shul-images/325ZICHRONMOSHE3.jpg",
+        "source": "https://www.godaven.com/shul-details/325",
+        "caption": "Zichron Moshe Building",
+        "name": "325ZICHRONMOSHE3.jpg"
+      }
+    ]
+  }
+]

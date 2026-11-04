@@ -1,7 +1,7 @@
 'use strict';
 // Relative URLs keep this worker inside its GitHub Pages repository.
 const PREFIX = 'misluli-hatzdaka-' + self.registration.scope + '-';
-const CACHE = PREFIX + 'v24';
+const CACHE = PREFIX + 'v25';
 const FILES = ['index.html', 'pwa.js', 'i18n.js', 'manifest.webmanifest', 'icon-192.png', 'icon-512.png', 'icon-180.png'];
 const base = self.registration.scope;
 const allowed = new Set(FILES.map(path => new URL(path, base).href));
@@ -19,7 +19,8 @@ self.addEventListener('fetch', event => {
   if (url.origin !== self.location.origin) return; // Never cache routing, location queries or third-party map tiles.
   const isHome = url.pathname === new URL(base).pathname || url.pathname === new URL(home).pathname;
   const key = isHome ? home : url.origin + url.pathname;
-  if (!isHome && !allowed.has(key)) return;
+  const isPhoto = url.pathname.startsWith(new URL('photos/', base).pathname) && /\/\d+\.webp$/.test(url.pathname);
+  if (!isHome && !allowed.has(key) && !isPhoto) return;
   event.respondWith((async () => {
     const cache = await caches.open(CACHE);
     try {
